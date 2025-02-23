@@ -169,6 +169,7 @@ Meteo
 - [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) [325⭐] - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
 - [Flyer Chat](https://github.com/flyerhq/flutter_chat_ui) [1594⭐] - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
 - [Smooth Page Indicator](https://github.com/Milad-Akarie/smooth_page_indicator) [1199⭐] - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie)
+- [Dotted Line Flutter](https://github.com/iamapuneet/dotted_line_flutter) [16⭐] - Flutter Dotted Line is a lightweight and highly customizable package By Puneet Sharma. [Puneet Sharma](https://github.com/iamapuneet)
 
 #### Libraries
 
